@@ -1,3 +1,7 @@
 test1
+<<<<<<< HEAD
 new test
 
+=======
+testing in ranch
+>>>>>>> branch1
