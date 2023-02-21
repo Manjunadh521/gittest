@@ -1,2 +1,6 @@
 second test
+<<<<<<< HEAD
 newtest
+=======
+ranch test
+>>>>>>> branch1
